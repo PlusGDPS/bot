@@ -1,0 +1,17 @@
+{
+    "server": 0,
+    "databaseUrl": "",
+    "thumbnailsChannel": 0,
+    "verifiedThumbnailerRole": 0,
+    "pollChannel": 0,
+    "pollRole": 0,
+    "pollMessage": "",
+    "placeholder1": "",
+    "placeholder2": "",
+    "placeholder3": "",
+    "placeholder4": "",
+    "placeholder5": "",
+    "deadChatAllowedRole": [0],
+    "deadChatAllowedChannel": 0,
+    "deadChatRole": 0
+}
